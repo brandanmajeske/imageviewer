@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<gallery>
+	<image>
+		<title>Grass</title>
+		<date>April 23, 2012</date>
+		<caption>Grass in the field</caption>
+		<url>grass.jpg</url>
+	</image>
+
+	<image>
+		<title>Moon</title>
+		<date>May 5, 2012</date>
+		<caption>The Moon up above</caption>
+		<url>junemoon.jpg</url>
+	</image>
+	
+	<image>
+		<title>river</title>
+		<date>April 30, 2012</date>
+		<caption>The cool river</caption>
+		<url>river.jpg</url>
+	</image>
+	
+	<image>
+		<title>Road</title>
+		<date>May 26, 2012</date>
+		<caption>A long dirt road</caption>
+		<url>road.jpg</url>
+	</image>
+	<image>
+		<title>Bird</title>
+		<date>June 16, 2012</date>
+		<caption>A bird on a lamp</caption>
+		<url>bird.jpg</url>
+	</image>
+	<image>
+		<title>Steed</title>
+		<date>June 16, 2012</date>
+		<caption>A plastic steed</caption>
+		<url>steed.jpg</url>
+	</image>
+</gallery>
